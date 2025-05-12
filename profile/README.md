@@ -6,7 +6,7 @@ To get started with Creaminstaller, follow these simple steps:
 2. **Unlock the archive and follow the instructions!**
 3. **Enjoy the game!**
 
-**📌 Description:**  
+## 📌 Description:
 🚀 **CreamInstaller** is the best currently available way to unlock Creaminstaller DLCs and Expansions and keep them up-to-date while also being able to get access to online features like gallery.
 
 ![DLC Unlocker Preview](https://preview.redd.it/question-about-creaminstaller-v4-10-0-v0-2mcgp0xm6mac1.png?width=577&format=png&auto=webp&s=16d2f575db667e83e2151139378909cd0f4541a5)
